@@ -1,5 +1,5 @@
 # TightBindingHamiltonian_Si
-This is a code to plot the band structure of diamond structure Si run in the
+This is code to plot the band structure of diamond structure Si run in the
 UBUNTU Python IDE, "SPYDER" which uses the "numpy" and "matplotlib" modules 
 among others.
 The code involves generation of the tight binding Hamiltonian of diamond 
